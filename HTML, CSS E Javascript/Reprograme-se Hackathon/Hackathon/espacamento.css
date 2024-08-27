@@ -1,0 +1,100 @@
+/*Calendário*/
+.calQuad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+/*Formatação textos*/
+.titulo1 {
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.titulo2 {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.txt1 {
+  font-size: 17px;
+}
+
+.txt2 {
+  margin: 0;
+  padding: 0;
+  font-size: 17px;
+}
+
+.txt3 {
+  margin: 0;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.txt4 {
+  margin-bottom: 13px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #595959;
+}
+
+.txt5 {
+  margin: 7px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.txt6 {
+  margin: 7px;
+  font-size: 14px;
+  color: #595959;
+}
+
+/*Botões*/
+.btn1 {
+  margin: 0;
+  padding: 0px 10px;
+  background-color: #418bb9;
+  color: #ffffff;
+  border: 1px solid black;
+  
+}
+
+/*Margem Esquerda*/
+.ml-1 {
+  margin-left: 10%;
+}
+
+.ml-15 {
+  margin-left: 15%;
+}
+
+.ml-2 {
+  margin-left: 20%;
+}
+
+.ml-25 {
+  margin-left: 25%;
+}
+
+.ml-3 {
+  margin-left: 30%;
+}
+
+.ml-35 {
+  margin-left: 35%;
+}
+
+.ml-4 {
+  margin-left: 40%;
+}
+
+.ml-45 {
+  margin-left: 45%;
+}
+
+.ml-5 {
+  margin-left: 50%;
+}
